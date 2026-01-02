@@ -49,7 +49,7 @@ I specialize in **2D Game Development** using Godot. My workflow involves:
   <a href="https://github.com/kalbashi09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/john-david-d-paul-7b4679313" target="_blank">
+  <a href="https://www.linkedin.com/in/john-david-d-paul-7b4679313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/ryushin28" target="_blank">
