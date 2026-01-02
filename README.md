@@ -40,16 +40,19 @@ I specialize in **2D Game Development** using Godot. My workflow involves:
 
 ---
 
-### 📈 GitHub Activity
+### 🌐 Connect with me
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kalbashi09&show_icons=true&theme=tokyonight" alt="kalbashi09's GitHub stats" />
+  <a href="mailto:pauljode1234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kalbashi09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="www.linkedin.com/in/john-david-d-paul-7b4679313" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/ryushin28" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ryushin28"/>
+  </a>
 </p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalbashi09&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
-[📧 Contact me through GitHub Issues!](https://github.com/kalbashi09)
