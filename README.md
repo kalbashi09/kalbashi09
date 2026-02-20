@@ -1,6 +1,6 @@
 # Hi there, I'm kalbashi09! 🚀
 
-### 👨‍💻 Student | Game Dev | Front-End Enthusiast
+### 👨‍💻 Student | Game Dev | Back-End Enthusiast
 
 I am an aspiring developer bridging the gap between creative art and logic. I spend my time crafting 2D worlds in Godot and building clean, responsive interfaces with web tech.
 
