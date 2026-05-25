@@ -18,7 +18,6 @@ I build robust, real-time backend architectures and scalable server logic using 
 ### 🚀 Featured Architectural Projects
 
 * **HEALERTSYS (Heat Alert System)**: A real-time environment monitoring system leveraging C#, PostgreSQL (Npgsql), and direct automated Telegram bot integration for instantaneous event dispatch.
-* **CheckpointLog**: A real-time, lightweight GPS road-tracking web application customized for high-efficiency regional localization.
 
 ---
 
