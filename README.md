@@ -1,42 +1,47 @@
-# Hi there, I'm kalbashi09! 🚀
+# Hi there, I'm John David (kalbashi09)! 🚀
 
-### 👨‍💻 Student | Game Dev | Back-End Enthusiast
+### 💻 Backend Engineer | Systems-Minded Game Developer 
 
-I am an aspiring developer bridging the gap between creative art and logic. I spend my time crafting 2D worlds in Godot and building clean, responsive interfaces with web tech.
-
----
-
-### 🔭 Current Focus
-
-* 🔭 **I’m currently working on**: Developing interactive 2D projects and polishing my pixel art style.
-* 🌱 **I’m currently learning**: **C#** (bringing typed logic to my game dev workflow).
-* 🤝 **I’m looking to collaborate on**: Godot-based game jams or open-source front-end projects.
-* 💬 **Ask me about**: **GDScript**, CSS layouts, or 3D modeling.
-* ⚡ **Fun fact**: I create games on an i7-4700MQ rig—optimizing for performance is second nature to me!
+I build robust, real-time backend architectures and scalable server logic using C#. When I'm not managing data pipelines, I bridge the gap between creative systems and clean code by developing 2D game mechanics in Godot. I don't just write code; I optimize it to squeeze every drop of performance out of constrained hardware.
 
 ---
 
-### 🎮 Godot & Game Development
-I specialize in **2D Game Development** using Godot. My workflow involves:
-* **GDScript & C#**: Writing efficient scripts for game mechanics and UI systems.
-* **Art Integration**: Bringing my own **Pixel Art** and **3D models** into the engine.
-* **Problem Solving**: Building modular systems that run smoothly on varied hardware.
+### ⚡ What I'm Engineering right now
+
+* ⚙️ **Backend & Infrastructure**: Designing multi-layered server logic, RESTful APIs, and implementing real-time tracking systems with PostgreSQL.
+* 🎮 **Godot + C#**: Completely transitioning my game development workflow to C# to build modular, high-performance 2D systems.
+* 🐧 **Environment**: Developing natively inside Linux Mint, utilizing streamlined terminal environments for efficient, boilerplate-free architecture work.
+* 🎯 **Current Objective**: Mastering professional backend design patterns, microservices, and framework efficiency in C#.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Featured Architectural Projects
 
-**Programming & Web**
+* **HEALERTSYS (Heat Alert System)**: A real-time environment monitoring system leveraging C#, PostgreSQL (Npgsql), and direct automated Telegram bot integration for instantaneous event dispatch.
+* **CheckpointLog**: A real-time, lightweight GPS road-tracking web application customized for high-efficiency regional localization.
+
+---
+
+### 🛠 Modern Tech Stack
+
+**Backend & Systems Infrastructure**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-9CF122?style=for-the-badge&logo=linuxmint&logoColor=black)
+
+**Game & Core Logic Development**
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Web & Interface Engineering**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Creative Tools**
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
 
 ---
 
